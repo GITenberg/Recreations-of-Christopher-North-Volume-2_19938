@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9011
     wikipedia: http://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19938#Recreations-of-Christopher-North-Volume-2
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
 identifiers:
