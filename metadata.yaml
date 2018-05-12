@@ -1,0 +1,35 @@
+_repo: Recreations-of-Christopher-North-Volume-2_19938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, John
+    aliases:
+    - Austin, Arthur
+    - North, Christopher
+    - Mullion, Mordecai
+    birthdate: 1785
+    deathdate: 1854
+    gutenberg_agent_id: '9011'
+    url: http://www.gutenberg.org/2009/agents/9011
+    wikipedia: http://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
+description: ''
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: May-day -- Sacred poetry -- Christopher in his aviary -- Dr Kitchiner
+  -- Soliloquy on the seasons -- A few words on Thomson -- The Snowball Bicker of
+  Pedmount -- Christmas dreams -- Our winter quarters -- Stroll to Grassmere -- L'envoy
+  -- Remarks on the scenery of the Highlands.
+title: Recreations of Christopher North, Volume 2
+url: http://www.gutenberg.org/ebooks/19938
